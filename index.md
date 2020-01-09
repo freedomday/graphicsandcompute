@@ -14,7 +14,7 @@ Current instance: [11 December 2018](2018.md)
 ### Communication channels
 
 * Email: hello-at-freedomday-club
-* Twitter: [@freedomdayclub](https://www.facebook.com/freedomdayclub/)
+* Facebook: [@freedomdayclub](https://www.facebook.com/freedomdayclub/)
 * Twitter: [@freedomdayclub](https://twitter.com/freedomdayclub)
 
 ### Graphics and Compute walking the walk to freedom
